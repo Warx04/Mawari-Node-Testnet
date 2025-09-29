@@ -12,6 +12,7 @@
 2. [Run Guardian Node](#2-run-guardian-node)
 3. [Delegate Guardian Node](#3-delegate-guardian-node)
 4. [Submit Guardian Node Form](#4-submit-guardian-node-form)
+5. [Video How To Running Mawari Node](#5-video-how-to-running-mawari-node)
 
 ---
 
@@ -185,3 +186,12 @@ After successfully running the node, submit the confirmation form here:
 <img width="682" height="338" alt="image" src="https://github.com/user-attachments/assets/87af8bd6-1e0b-4e0c-9e20-7d94031284cb" />
 
 ---
+
+## 5. Video How To Running Mawari Node
+
+### Indonesia Langugage Version
+
+https://us-west-00-firestarter.pipenetwork.com/publicDownload?hash=dbf4369d3504dd42e953b3bac934a3ec&preview=true
+
+---
+
